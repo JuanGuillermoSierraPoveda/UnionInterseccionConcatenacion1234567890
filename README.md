@@ -192,6 +192,7 @@ la union de estos dos seria
 10 Ejemplo adicional de prueba con concatenacion_lenguajes
 
 # Concatenacion del lenguaje
+estas dos partes del codigo de la rama 3 son las mas importantes ya que son las que realizan la operacion de varios lenguajes L1, L2; L3, L4, L5
 
 ```python
 def concatenacion_lenguajes(L1, L2):
