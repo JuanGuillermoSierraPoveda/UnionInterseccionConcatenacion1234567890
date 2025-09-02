@@ -192,21 +192,24 @@ la union de estos dos seria
 10 Ejemplo adicional de prueba con concatenacion_lenguajes
 
 # Concatenacion del lenguaje
+´´´´python
 def concatenacion_lenguajes(L1, L2):
     resultado = set()
     for x in L1:
         for y in L2:
             resultado.add(x + y)
     return resultado
+´´´    
 concatenacion_lenguajes(L1, L2): recibe dos lenguajes finitos y genera un nuevo lenguaje con todas las combinaciones posibles uniendo cada cadena de L1 con cada cadena de L2.
 
 Ejemplo: L1 = {"a", "b"}, L2 = {"c", "d"} → Resultado: {"ac", "ad", "bc", "bd"}.
-
+´´´python
 def comprobar(L, palabra):
     if palabra in L:
         print(f"La palabra '{palabra}' SÍ pertenece al lenguaje.")
     else:
         print(f"La palabra '{palabra}' NO pertenece al lenguaje.")
+´´´
 
 comprobar(L, palabra): revisa si una palabra específica pertenece al lenguaje resultante e imprime un mensaje indicando si está o no.
 
