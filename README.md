@@ -164,6 +164,8 @@ L1 Y L2 PARAMETROS (LENGUAJES)
 estos dos generan un nuevo lenguaje con todas las combianciones posibles x+y donde x pertenecia a L1 y e l2
 un ejemplo mas claro de lo que se realizo
 ## ejemplo:
+un ejemplo mas claro para lograr compreder mejor la concatenacion de lenguajes que fue lo que hizo en la rama 3
+
 ```
 L1 = {"a", "b"}
 l2 = {"c","d"}
