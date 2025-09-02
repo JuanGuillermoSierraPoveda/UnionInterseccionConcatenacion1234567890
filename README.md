@@ -154,8 +154,8 @@ cd <dirección_de_la_carpeta>
 ```bash
 git clone https://github.com/JuanGuillermoSierraPoveda/UnionInterseccionConcatenacion1234567890
 ```
-Rama 3
- los comandos usados para los ejercicios
+## Rama 3
+## los comandos usados para los ejercicios
 
 -git checkout -b rama3
 - git add lenguajes.py README.MD
@@ -163,13 +163,14 @@ lenguajes concatenados (L1, L2)
 L1 Y L2 PARAMETROS (LENGUAJES)
 estos dos generan un nuevo lenguaje con todas las combianciones posibles x+y donde x pertenecia a L1 y e l2
 un ejemplo mas claro de lo que se realizo
-ejemplo:
+## ejemplo:
+´´´bash
 L1 = ["a", "b"]
 l2 = ["c","d"]
 la union de estos dos seria
 {"ac","ad","bc","bd"}
-
-resumen de los 1 ejercicios que se hicieron en la rama 3
+´´´
+# resumen de los 1 ejercicios que se hicieron en la rama 3
 1 Concatenación L1 · L3
 2 Concatenación L3 · L1
 3 Concatenación L4 · L5
