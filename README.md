@@ -20,7 +20,7 @@ Se reunieron los seres actuantes y transformadores:
 
 Juan Guillermo Julio Lee Sierra Poveda
 Juan David Navarrete Niño
-
+David Santiago Riaño Fuquene
 
 Con el fin de llevar a cabo el trabajo asignado por el gestor de conocimiento durante el espacio de aprendizaje. 
 
@@ -28,7 +28,7 @@ Juan Guillermo Julio Lee Sierra Poveda, lider y Scrum Manager, se encargó de la
 
 Juan David Navarrete Niño, sub-Scrum Manager del trabajo, se encargó de la solución y respuesta referente a los ejercicios enfoncados en intersección como operaciones fundamentes de los lenguajes finitos. 
 
-#santiago#
+David Santiago Riaño Fuquene en encargo de la 3 rama que es la que corresponde a la operacion de el lenguajes formales de las otras dos ramas anteoriores
 
 Finalmente, los tres llevamos a cabo la complicidad del documento README.md, incluyendo su debida documentación e instrucción para clonar el repositorio y ejecutar los scripts solicitados para ver sus correspondientes resultados.
 
