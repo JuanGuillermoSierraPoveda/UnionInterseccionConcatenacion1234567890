@@ -164,9 +164,9 @@ L1 Y L2 PARAMETROS (LENGUAJES)
 estos dos generan un nuevo lenguaje con todas las combianciones posibles x+y donde x pertenecia a L1 y e l2
 un ejemplo mas claro de lo que se realizo
 ## ejemplo:
-´´´bash
-L1 = ["a", "b"]
-l2 = ["c","d"]
+´´´
+L1 = {"a", "b"}
+l2 = {"c","d"}
 la union de estos dos seria
 {"ac","ad","bc","bd"}
 ´´´
