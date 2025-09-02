@@ -134,6 +134,14 @@ print("Octavo ejercicio %s"%df)
 comprobar(df,"a")
 ```
 
+Los comandos de git usados para realizar esta parte de la actividad fueron:
+
+```bash
+git clone https://github.com/JuanGuillermoSierraPoveda/UnionInterseccionConcatenacion1234567890
+git add *
+git commit -m "Interseccion"
+git push
+```
 
 ## Concatenacion
 
