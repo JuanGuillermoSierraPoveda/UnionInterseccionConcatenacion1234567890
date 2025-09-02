@@ -170,14 +170,23 @@ l2 = {"c","d"}
 la union de estos dos seria
 {"ac","ad","bc","bd"}
 ´´´
-# resumen de los 1 ejercicios que se hicieron en la rama 3
+# resumen de los 10 ejercicios que se hicieron en la rama 3
 1 Concatenación L1 · L3
+
 2 Concatenación L3 · L1
+
 3 Concatenación L4 · L5
+
 4 Concatenación L5 · L4
+
 5 Concatenación L1 · L2
+
 6 Concatenación de lenguajes finitos A={"a","b"}, B={"a","c"}
+
 7 Concatenación de lenguajes finitos A={"0","1"}, B={ε,"00"}
+
 8 Verificación de la palabra "aba" en (L1 · L2)
+
 9 Verificación de la palabra "cab" en (L3 · L4)
+
 10 Ejemplo adicional de prueba con concatenacion_lenguajes
