@@ -164,12 +164,12 @@ L1 Y L2 PARAMETROS (LENGUAJES)
 estos dos generan un nuevo lenguaje con todas las combianciones posibles x+y donde x pertenecia a L1 y e l2
 un ejemplo mas claro de lo que se realizo
 ## ejemplo:
-´´´
+```
 L1 = {"a", "b"}
 l2 = {"c","d"}
 la union de estos dos seria
 {"ac","ad","bc","bd"}
-´´´
+```
 # resumen de los 10 ejercicios que se hicieron en la rama 3
 1 Concatenación L1 · L3
 
